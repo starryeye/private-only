@@ -4,3 +4,4 @@
 - navi-client
 - oauth-proxy
 - oauth
+- oauth-integration-test
